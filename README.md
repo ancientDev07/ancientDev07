@@ -47,8 +47,8 @@ I'm a dynamic Solution Developer with a passion for bridging theoretical concept
 My work is driven by a unique blend of creativity and analytical thinking. I view technological challenges as opportunities to create elegant, innovative solutions that push the boundaries of what's possible.
 
 ### 🌐 Professional Connections
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/krishnigam)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/onkar-nigam-73b1101a5/)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail)](mailto:onkarnigam07@gmail.com)
 
 ### 📊 GitHub Analytics
 ![GitHub Stats](https://github-readme-stats.vercel.sh/api?username=ancientdev07&theme=transparent&hide_border=true&include_all_commits=true&count_private=true)
